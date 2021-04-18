@@ -1,13 +1,13 @@
 # Assignment-2-Lexical-Scoping
-#Create the variable: y = 4.56 
-## Then, fill in the fprintf statements using these variables that will accomplish the following: 
+# With a variable given: y = 4.37 
+## Fill in the fprintf statements using the given variable: 
 ## fprintf( 
-  y is 4.6 !
- y=4.56
+  y is 4.370 !
+ y=4.37
 y = 
      4.5600
      3.7000
- y is 4.6 ! 
+ y is 4.3700 ! 
   get <- function() x
 ##
 
