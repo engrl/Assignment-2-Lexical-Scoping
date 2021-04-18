@@ -14,5 +14,13 @@ y =
      3.7000
  y is 4.6 ! 
   get <- function() x
-  ## simply set the input x as a matrix
+##
+#What would happen if you use the %d conversion character but you’re trying to print a real number?
+##
+Like for example:
+
+ ## fprintf(‘%d\n’,1234567.89) 
+
+## fprintf('%d\n',1234567.89) 
+1.234568e+06
   
